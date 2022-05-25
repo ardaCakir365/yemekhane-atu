@@ -22,7 +22,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="180dp"
         android:layout_marginTop="320dp"
-        android:text="@string/asd"
+        android:text="@string/strArda"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
